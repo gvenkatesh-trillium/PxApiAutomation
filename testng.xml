@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Project X Api Testing " verbose="1">
+    <test name="All test ">
+        <packages>
+            <package name="java.com.tests"></package>
+        </packages>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
